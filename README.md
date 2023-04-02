@@ -30,5 +30,5 @@ The game continues until you match all the cards on the board
 
 
 #
-🕹🕹🕹Play around the game!
-
+🕹🕹🕹Play around the game:
+https://alissoninacio1.github.io/memory-game/
